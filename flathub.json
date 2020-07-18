@@ -1,3 +1,5 @@
 {
+    "end-of-life": "The application has been renamed to org.freedesktop.LinuxAudio.Plugins.Dexed",
+    "end-of-life-rebase": "org.freedesktop.LinuxAudio.Plugins.Dexed",
     "skip-icons-check": true
 }
